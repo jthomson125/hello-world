@@ -1,0 +1,5 @@
+Hello world!
+
+This is the first file in my new Git Repo.
+This line is here to show how merging works.
+
